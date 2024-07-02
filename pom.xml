@@ -18,7 +18,7 @@
 
     <properties>
         <scala.version>3.4.0</scala.version>
-        <jira.version>9.4.22</jira.version>
+        <jira.version>9.12.9</jira.version>
         <amps.version>8.7.0</amps.version>
         <osgi.javaconfig.version>0.6.0</osgi.javaconfig.version>
         <apache.felix.version>4.0.0</apache.felix.version>
